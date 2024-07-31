@@ -41,10 +41,11 @@ dev = [
   "numpydoc",
   "pytest",
   "pytest-cov",
+  "myst_nb",
   "sphinx",
   "sphinx-autobuild",
   "sphinx-inline-tabs",
-  "sphinx-rtd-theme",
+  "sphinx-book-theme",
   "sphinxcontrib-mermaid",
 ]
 nb = [
